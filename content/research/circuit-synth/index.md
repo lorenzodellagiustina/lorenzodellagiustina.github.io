@@ -4,7 +4,7 @@ title = "On the complexity of CNOT-based circuit synthesis"
 description = "A thesis that focuses on the study of the complexity of the CNOT-based optimal circuit synthesis problem under directed topological constraints. The problem is proved to be NP-hard to approximate by means of a prior known result about the variant with ancillae qubits."
 date = 2025-03-28
 [taxonomies]
-tags = ["Quantum Computing", "Computational Complexity"]
+tags = ["Quantum Computing", "Computational Complexity", "University", "SUPE"]
 [extra]
 featured = false
 +++
